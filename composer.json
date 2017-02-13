@@ -1,0 +1,24 @@
+{
+    "name": "rivalis/rivaboob",
+    "type": "library",
+    "description": "Scraping bank",
+    "keywords": ["log","logging"],
+    "homepage": "https://github.com/michelfleith/baastille",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rivalis",
+            "email": "michel@fleith.com",
+            "homepage": "http://www.rivalis.fr",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
+    }
+}
